@@ -101,6 +101,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 For any inquiries or issues, feel free to contact:
 
 - **Prince Pandit**: [kumarprince16062002@gmail.com](mailto\:your.email@example.com)
-- [https://www.linkedin.com/in/prince200](https://linkedin.com/in/your-profile)
-- [https://github.com/PrincePandit16](https://github.com/your-username)
+- [Linkedin](https://linkedin.com/in/prince200)
+- [GitHub](https://github.com/PrincePandit16)
 
