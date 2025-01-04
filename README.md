@@ -10,12 +10,9 @@
 2. [Dataset](#dataset)
 3. [Features](#features)
 4. [Technologies Used](#technologies-used)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
+5. [Results](#results)
+6. [Contributing](#contributing)
+7. [Contact](#contact)
 
 ---
 
@@ -78,39 +75,15 @@ The dataset includes the following features:
 - **Matplotlib & Seaborn**: Data visualization
 - **Scikit-learn**: Machine learning
 - **Jupyter Notebook**: Interactive coding environment
-
----
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/telecom-churn-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd telecom-churn-analysis
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
-## Usage
-
-1. Run the Jupyter Notebook to explore the analysis:
-   ```bash
-   jupyter notebook Telecom_Churn_Analysis.ipynb
-   ```
-2. Adjust the code or add new features based on your requirements.
+- **Power BI**: For creating interactive dashboards and visualizing churn insights
+- **EXCEL**: For easy summary work
+- **MySQL Workbench**: To store and query customer churn data efficiently
 
 ---
 
 ## Results
 
-- The final model achieved **X% accuracy** with **Y% precision** and **Z% recall**.
+- The final model achieved **86% accuracy** with **80% precision** and **82% recall**.
 - Key insights from the analysis include:
   - High churn rates among customers with low tenure.
   - Churn correlates strongly with high monthly charges.
@@ -123,17 +96,11 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the (MIT) file for details.
-
----
-
 ## Contact
 
 For any inquiries or issues, feel free to contact:
 
-- **Your Name**: [your.email@example.com](mailto\:your.email@example.com)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-username)
+- **Prince Pandit**: [kumarprince16062002@gmail.com](mailto\:your.email@example.com)
+- [https://www.linkedin.com/in/prince200](https://linkedin.com/in/your-profile)
+- [https://github.com/PrincePandit16](https://github.com/your-username)
 
